@@ -1,0 +1,58 @@
+BUSINESS ENTITTIES :
+
+User table :
+
+login
+logout
+forgot password
+book
+payment
+
+payment :
+
+eallet
+credit card
+debit card
+
+booking :
+booking id
+booking details
+
+
+management team :
+
+seller details 
+customer details
+
+
+seller :
+
+airline
+bus 
+train
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BUSINESS OPERATION :
+
+
+Login ->  User can login
+Logout -> User can logout 
+Forget password -> User can reset password
+Book -> User can book ticket
+Service center -> user can contact with customer service via chat or call
+Search -> User can search for transport medium 
+payment -. After booking user can make payment via ewallet,credit card,debit card. 
